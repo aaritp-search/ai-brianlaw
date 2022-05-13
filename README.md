@@ -6,7 +6,7 @@
     >
     <br>
     <br>
-    <b>Hi, I'm Brian Law.</b>
+    <b>Hi, I'm Brian Law, a massive fricker.</b>
     <br>
     <br>
     <img
